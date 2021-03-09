@@ -1,10 +1,18 @@
 <h1>
   
 ```diff
-! Hello Friend 👋
+- Hello Friend 👋
 ```
   
 </h1>
+
+## 🌱 Stuff I'm learning about right now
+
+```diff
+
++ I’m currently experimenting with Vite/Vue & Hasura
+! TODO: Learn more about Flutter 2.0
+```
 <!--
 **cold-logic/cold-logic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
