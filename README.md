@@ -1,5 +1,10 @@
-<h1 style="color: rgb(214, 68, 15)">Hello Friend</span> 👋
-
+<h1>
+  
+```diff
+! Hello Friend 👋
+```
+  
+</h1>
 <!--
 **cold-logic/cold-logic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
