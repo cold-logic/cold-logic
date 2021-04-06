@@ -25,7 +25,7 @@
 
 > “If you think you know everything; you know nothing. If you think you know nothing; you know something.” ― Jayce O'Neal
 
-> "Continuous effort; Not strength or intelligence; Is the key to unlocking or potential" — Winston Churchill
+> "Continuous effort; Not strength or intelligence; Is the key to unlocking our potential" — Winston Churchill
 
 > "Only those who dare to fail greatly can ever achieve greatly." — Robert F. Kennedy
 
