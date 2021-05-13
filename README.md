@@ -23,17 +23,17 @@
 
 ## 🤔 Brain food
 
-> “If you think you know everything; you know nothing. If you think you know nothing; you know something.” ― Jayce O'Neal
+> "If you think you know everything; you know nothing. If you think you know nothing; you know something." ― Jayce O'Neal
 
 > "Continuous effort; Not strength or intelligence; Is the key to unlocking our potential" — Winston Churchill
 
 > "Only those who dare to fail greatly can ever achieve greatly." — Robert F. Kennedy
 
-> “Engineers don’t get paid for knowing the answers to every question, they get paid to know where to find them.”
+> "Engineers don’t get paid for knowing the answers to every question, they get paid to know where to find them."
 
 > "The future belongs to those who prepare for it today." — Malcolm X
 
-> The best solutions remove the obstacles, remove the impediments, remove the inhibitors that modern workers face — and they do it in a way that anyone can easily understand. It’s the solution you don’t know you need, but once you have it, you can’t live without it.
+> "The best solutions remove the obstacles, remove the impediments, remove the inhibitors that modern workers face — and they do it in a way that anyone can easily understand. It’s the solution you don’t know you need, but once you have it, you can’t live without it." — Stewart Butterfield
 
 <!--
 **cold-logic/cold-logic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
