@@ -31,6 +31,8 @@
 
 > “Engineers don’t get paid for knowing the answers to every question, they get paid to know where to find them.”
 
+> "The future belongs to those who prepare for it today." — Malcolm X
+
 > The best solutions remove the obstacles, remove the impediments, remove the inhibitors that modern workers face — and they do it in a way that anyone can easily understand. It’s the solution you don’t know you need, but once you have it, you can’t live without it.
 
 <!--
