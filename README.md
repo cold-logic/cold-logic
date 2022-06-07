@@ -9,8 +9,8 @@
 ## 🌱 Stuff I'm learning about right now
 
 ```diff
-
-+ I’m currently experimenting with Remix & Gravity gRPC
++ Remix - full stack web framework
++ Gravity - scalable RPC framework for Typescript
 ```
 
 ## 💬 Ask me about
