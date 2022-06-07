@@ -10,8 +10,7 @@
 
 ```diff
 
-+ I’m currently experimenting with Vite/Vue & Hasura
-! TODO: Learn more about Flutter 2.0
++ I’m currently experimenting with Remix & Gravity gRPC
 ```
 
 ## 💬 Ask me about
