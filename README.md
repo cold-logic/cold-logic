@@ -1,10 +1,4 @@
-<h1>
-  
-```diff
-Hello Friend 👋
-```
-  
-</h1>
+# Hello Friend 👋
 
 ## 🌱 Stuff I'm learning about right now
 
