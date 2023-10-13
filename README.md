@@ -1,7 +1,7 @@
 <h1>
   
 ```diff
-- Hello Friend 👋
+Hello Friend 👋
 ```
   
 </h1>
