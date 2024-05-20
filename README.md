@@ -16,6 +16,10 @@
 
 ## 🤔 Brain food
 
+> "The important thing is not to stop questioning. Curiosity has its own reason for existing. One cannot help but be in awe when he contemplates the mysteries of eternity, of life, of the marvelous structure of reality. It is enough if one tries merely to comprehend a little of this mystery every day." ― Albert Einstein
+
+> "The state of mind which enables a man to do work of this kind ... is akin to that of the religious worshipper or the lover; the daily effort comes from no deliberate intention or program, but straight from the heart."  ― Albert Einstein
+
 > "If you think you know everything; you know nothing. If you think you know nothing; you know something." ― Jayce O'Neal
 
 > "Continuous effort; Not strength or intelligence; Is the key to unlocking our potential" — Liane Cordes
