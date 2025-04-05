@@ -20,17 +20,19 @@
 
 > "The state of mind which enables a man to do work of this kind ... is akin to that of the religious worshipper or the lover; the daily effort comes from no deliberate intention or program, but straight from the heart."  ― Albert Einstein
 
-> "If you think you know everything; you know nothing. If you think you know nothing; you know something." ― Jayce O'Neal
+> "Great minds discuss ideas; average minds discuss events; small minds discuss people." ― Eleanor Roosevelt
 
 > "Continuous effort; Not strength or intelligence; Is the key to unlocking our potential" — Liane Cordes
 
 > "Only those who dare to fail greatly can ever achieve greatly." — Robert F. Kennedy
 
-> "Engineers don’t get paid for knowing the answers to every question, they get paid to know where to find them."
+> "If you cannot do great things, do small things in a great way." - Napoleon Hill
 
 > "The future belongs to those who prepare for it today." — Malcolm X
 
 > "The best solutions remove the obstacles, remove the impediments, remove the inhibitors that modern workers face — and they do it in a way that anyone can easily understand. It’s the solution you don’t know you need, but once you have it, you can’t live without it." — Stewart Butterfield
+
+> "Engineers don’t get paid for knowing the answers to every question, they get paid to know where to find them." - Me
 
 <!--
 **cold-logic/cold-logic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
