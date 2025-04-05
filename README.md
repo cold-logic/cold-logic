@@ -16,6 +16,10 @@
 
 ## 🤔 Brain food
 
+> "Small acts of decency ripple in ways we could never imagine." ― Cory Booker
+
+> "In life, you get one choice over and over again. That is to take conditions as they are or take responsibility for changing them." ― Cory Booker
+
 > "The important thing is not to stop questioning. Curiosity has its own reason for existing. One cannot help but be in awe when he contemplates the mysteries of eternity, of life, of the marvelous structure of reality. It is enough if one tries merely to comprehend a little of this mystery every day." ― Albert Einstein
 
 > "The state of mind which enables a man to do work of this kind ... is akin to that of the religious worshipper or the lover; the daily effort comes from no deliberate intention or program, but straight from the heart."  ― Albert Einstein
