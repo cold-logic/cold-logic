@@ -9,10 +9,10 @@
 
 ## 💬 Ask me about
 
-[![ama !](https://img.shields.io/badge/🌐-webdev-blue)](https://GitHub.com/cold-logic/cold-logic)
+[![ama !](https://img.shields.io/badge/🌐-web_dev-blue)](https://GitHub.com/cold-logic/cold-logic)
 [![ama !](https://img.shields.io/badge/🎮-video_games-blue)](https://GitHub.com/cold-logic/cold-logic)
-[![ama !](https://img.shields.io/badge/🐕-my_dog-blue)](https://GitHub.com/cold-logic/cold-logic)
-[![ama !](https://img.shields.io/badge/🥓-bacon-red)](https://GitHub.com/cold-logic/cold-logic)
+[![ama !](https://img.shields.io/badge/🧠-emotional_intelligence-blue)](https://GitHub.com/cold-logic/cold-logic)
+[![ama !](https://img.shields.io/badge/🥓-bacon_receipes-red)](https://GitHub.com/cold-logic/cold-logic)
 
 ## 🤔 Brain food
 
