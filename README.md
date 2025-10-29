@@ -3,8 +3,8 @@
 ## 🌱 Stuff I'm learning about right now
 
 ```diff
-+ Remix - full stack web framework
-+ Gravity - scalable RPC framework for Typescript
++ remix.run - full stack web framework
++ gravity.digitak.dev - scalable RPC framework for Typescript
 ```
 
 ## 💬 Ask me about
