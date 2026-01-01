@@ -16,6 +16,8 @@
 
 ## 🤔 Brain food
 
+> "The core challenge of managing our limited time isn't about how to get everything done — that's never going to happen — but how to decide most wisely what not to do, and how to feel at peace about not doing it" — Oliver Burkeman
+
 > "Small acts of decency ripple in ways we could never imagine." ― Cory Booker
 
 > "In life, you get one choice over and over again. That is to take conditions as they are or take responsibility for changing them." ― Cory Booker
