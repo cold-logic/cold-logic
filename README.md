@@ -3,8 +3,10 @@
 ## 🌱 Stuff I'm learning about right now
 
 ```diff
-+ remix.run - full stack web framework
-+ gravity.digitak.dev - scalable RPC framework for Typescript
++ Agentic loop cycles
++ AWS Agent Core + Strands Agents
+- remix.run - full stack web framework
+- gravity.digitak.dev - scalable RPC framework for Typescript
 ```
 
 ## 💬 Ask me about
