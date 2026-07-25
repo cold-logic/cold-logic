@@ -4,7 +4,7 @@
 
 ```diff
 + Agentic loop cycles
-+ AWS Agent Core + Strands Agents
++ Bedrock AgentCore + Strands Agents
 - remix.run - full stack web framework
 - gravity.digitak.dev - scalable RPC framework for Typescript
 ```
